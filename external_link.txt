@@ -1,0 +1,2 @@
+Onboarding Cloud Account : https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/tree/master
+AWS Account Onboarding : https://live.paloaltonetworks.com/t5/prisma-cloud-articles/aws-account-onboarding-using-prisma-cloud-terraform-provider/ta-p/545025
